@@ -3,7 +3,7 @@ package clinic.programming.training;
 import java.util.ArrayList;
 import java.util.List;
 
-在pom.xml中增加此dependencies，
+// 在pom.xml中增加此dependencies
 import org.apache.commons.lang3.StringUtils;
 
 public class Application {
